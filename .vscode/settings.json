@@ -1,0 +1,7 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "lvgl.h": "c",
+        "gui_guider.h": "c"
+    }
+}
